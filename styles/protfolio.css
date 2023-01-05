@@ -17,6 +17,22 @@
      border: 0;
      padding: 18px 35px;
 }
+/* contact button styles */
+.contact-btn{
+    font-size: 25px;
+    font-weight: 700;
+    background-color: teal;
+    border: none;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    color: rgb(255, 255, 255);
+}
+
+.contact-btn:hover{
+    background-color: #757575;
+    transition: 0.4s;
+}
 .header{
    margin: 0 auto;
     background: #fff8f3;
