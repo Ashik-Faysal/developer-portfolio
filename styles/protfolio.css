@@ -203,3 +203,10 @@ input {
     text-decoration: none;
     padding: 10px;
 }
+/* dekhar jonne add kora */
+small{
+    margin-left: 50px;
+    background-color: rgb(7, 82, 84);
+    color: #fff;
+    border-radius: 15px;
+}
