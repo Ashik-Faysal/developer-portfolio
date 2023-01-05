@@ -23,7 +23,7 @@
 background-repeat: no-repeat;
         background-position: bottom right , left;
         
-   height: 760px;
+   height: 810px;
     width: 1139px;
   
     /* padding: 50px; */
@@ -32,7 +32,7 @@ background-repeat: no-repeat;
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 .nav-title {
@@ -119,7 +119,7 @@ margin-bottom: 30px;
 /* what i do styles */
 
 .what-i-do{ /*nijer theke diye dekhlam*/
-    margin: 0 80px;
+    padding: 0 80px;
    
 }
 .skills-container{
@@ -145,7 +145,7 @@ margin-bottom: 30px;
 /* Resume style */
 .resume-content{
     display: flex;
-    margin-left: 80px;
+    padding: 50px 150px;
     gap: 24px;
 }
 
