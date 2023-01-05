@@ -17,7 +17,13 @@
      border: 0;
      padding: 18px 35px;
 }
-
+.header{
+    background: #fff8f3;
+    background-image: url("../images/header_bg.png") , url("../images/developer.png");
+   background-repeat: no-repeat;
+        background-position: bottom right , left;
+    
+    }
 nav {
     display: flex;
     justify-content: space-between;
@@ -61,4 +67,11 @@ img{
     color: #757575;
     font-size: 18px;
     margin-bottom: 30px;
+}
+/* about section ftyles */
+.about {
+
+}
+.section-title{
+    
 }
