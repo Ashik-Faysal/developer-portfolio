@@ -18,7 +18,7 @@
      padding: 18px 35px;
 }
 .header{
-    text-align: center;
+   margin: 0 auto;
     background: #fff8f3;
     background-image: url("../images/header_bg.png") , url("../images/developer.png");
 background-repeat: no-repeat;
