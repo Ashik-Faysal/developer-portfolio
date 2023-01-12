@@ -231,10 +231,14 @@ small{
     .skills-container{
     flex-direction: column;
 }
-.resume-content, .contact{
+.resume-content{
     display: grid;
     grid-template-columns: repeat(1,1fr);
     text-align: center;
+}
+.contact{
+    flex-direction: column;
+    padding: 5px;
 }
 .about-info-container{
     display: grid;
